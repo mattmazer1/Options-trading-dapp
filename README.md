@@ -1,7 +1,5 @@
 ## A dapp to trade options
 
-https://options-trading-dapp.netlify.app/
-
 The options are traded on the price of eth. The options are pre-funded in the smart contracts. The payouts and calculations are done automatically. Wallet
 addresses are stored in a database through a rest api corresponding to which option is bought, allowing for easy UI updates.
 
